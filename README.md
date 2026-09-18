@@ -101,25 +101,25 @@ The project compares several econometric specifications:
 
 ## Market Capitalization Distribution
 
-![Market Capitalization](figures/market_cap_distribution.png)
-
+![Market Capitalization](./figures/market_cap_distribution.png)
 ---
 
 ## Gender Diversity Distribution
 
-![Gender Diversity](figures/gender_diversity_distribution.png)
+![Gender Diversity](./figures/gender_diversity_distribution.png)
 
 ---
 
 ## Within-Firm Variation
 
-![Within Variation](figures/within_firm_changes.png)
+![Within Variation](./figures/within_firm_changes.png)
 
 ---
 
 ## Market Capitalization by Sector
 
-![Sector Analysis](figures/market_cap_by_sector.png)
+
+![Sector Analysis](./figures/market_cap_by_sector.png)
 
 ---
 
