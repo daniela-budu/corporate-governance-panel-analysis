@@ -192,8 +192,9 @@ Through this project I gained practical experience in:
 
 Understanding whether board diversity contributes to firm performance is relevant for investors, regulators and corporate decision-makers. This analysis illustrates how panel data econometrics can be applied to evaluate governance policies while accounting for firm-specific heterogeneity.
 -----
-# Authors
+# Author
 
-- **Daniela Budu**
+**Daniela Budu**
 
-Université Paris 1 Panthéon-Sorbonne
+MSc Economics and Data Analysis  
+University of Bergamo
